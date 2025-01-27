@@ -18,7 +18,7 @@ Any other ideas? Let me know! **Submit a new issue or create a pull request**.
 
 ----
 # Comparative Table
-### Scroll right to see all columns. The last column is "Visual First".
+### Scroll right to see all columns. The last column is "Code Language".
 **Emoji Role Definition**:
  
 - 🗺️: Product Manager
