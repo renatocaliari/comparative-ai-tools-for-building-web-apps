@@ -17,12 +17,14 @@ Any other ideas? Let me know! **Submit a new issue or create a pull request**.
 - [ ] Add the logo for each tool. 
 
 ----
-# Comparative Table
+# Comparative Table - Scroll right to see all columns. The last column is "Visual First".
 **Emoji Role Definition**:
  
 - 🗺️: Product Manager
 - 🖼️: Product Designer
 - 💻: Developer
+
+
 
 | Tool        | Best-fit product roles                                       | Use case                                                                                                | Open-source? | Bring your own LLM API key | Frontend Code | Backend Code          | Code Language        | Drag-and-drop | Visual First |
 |-------------|---------------------------------------------|---------------------------------------------------------------------------------------------------------|--------------|---------------------------|---------------|-----------------------|----------------------|---------------|--------------|
