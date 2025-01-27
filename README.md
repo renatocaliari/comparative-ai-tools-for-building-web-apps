@@ -17,7 +17,7 @@ Any other ideas? Let me know! **Submit a new issue or create a pull request**.
 - [ ] Add the logo for each tool. 
 
 ----
-# Comparatrive Table
+# Comparative Table
 **Emoji Role Definition**:
  
 - 🗺️: Product Manager
