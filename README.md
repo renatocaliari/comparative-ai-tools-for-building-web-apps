@@ -1,4 +1,5 @@
-# Comparatrive 🤖 AI web app tools
+# Comparative 🤖 AI Tools for Building Web Apps
+
 ### I need your help to keep this resource up-to-date!
 
 Do you know of any:
