@@ -10,23 +10,26 @@ Do you know of any:
 
 Any other ideas? Let me know! **Submit a new issue or create a pull request**.
 
-----
-
-**Pending tasks:**
-
-- [ ] Add the logo for each tool. 
-
-----
 # Comparative Table
-### Scroll right to see all columns. The last column is "Code Language".
-**Emoji Role Definition**:
- 
+
+**Scroll right to see all columns. The last column is "Code Language".**
+
+## 📖 Summary:
+- Types of tools
+  - Web Builder
+  - Terminal
+  - Extensions for IDE
+  - IDE
+- 🎁 Bonus
+  - No-Code but without AI
+
+## Types of tools
+**Emoji Role Definition**: 
 - 🗺️: Product Manager
 - 🖼️: Product Designer
 - 💻: Developer
 
-
-## Web Builder
+### Web Builder
 
 | Tool                                            | Best-fit product roles             | Type           | Open-source? | Use case                                                                                                | Drag-and-Drop | Visual First | Bring your own LLM API key | Frontend Code   | Backend Code            | Code Language        |
 | :---------------------------------------------- | :--------------------------------- | :------------- | :------------- | :--------------------------------------------------------------------------------------------------------- | :------------ | :----------- | :----------------------- | :---------------- | :---------------------- | :------------------- |
@@ -39,7 +42,15 @@ Any other ideas? Let me know! **Submit a new issue or create a pull request**.
 | [v0.dev](v0.dev)           | 🗺️🖼️💻                           | Web Visual Builder |              | ⚡🧑‍🤝‍🧑 Rapid prototyping. |           | ✅            |                            | ✅              |  | Javascript with React |
 | [Webstudio](https://webstudio.is/)                    | 🖼️                           | App Visual Builder | ✅             | ⚡ Rapid prototyping. Frontend creation of new projects                                       | ✅          | ✅           |                            |      |            | ? |
 
-## Extensions for IDE
+## Terminal
+
+| Tool                                            | Best-fit product roles             | Type           | Open-source? | Use case                                                                                                | Drag-and-Drop | Visual First | Bring your own LLM API key | Frontend Code   | Backend Code            | Code Language        |
+| :---------------------------------------------- | :--------------------------------- | :------------- | :------------- | :--------------------------------------------------------------------------------------------------------- | :------------ | :----------- | :----------------------- | :---------------- | :---------------------- | :------------------- |
+| [Aider](https://aider.chat/)                     | 💻                                 | Terminal       | ✅             | Creation and maintenance of complex web projects                                                          |               |            | ✅                        | ✅              | ✅                      | Multiple             |
+| [Codebuff](https://www.codebuff.com/)                     | 💻                                 | Terminal       |              | Creation and maintenance of complex web projects                                                          |               |            |                         | ✅              | ✅                      | Multiple             |
+| [Exponent.run](https://www.exponent.run/)            | 💻                                 | Extension; Terminal; IDE      |              | Code assistance and and maintenance of complex web projects files                                                |               |            |                         | ✅              | ✅                      | Multiple             |
+
+### Extensions for IDE
 
 | Tool                                            | Best-fit product roles             | Type           | Open-source? | Use case                                                                                                | Drag-and-Drop | Visual First | Bring your own LLM API key | Frontend Code   | Backend Code            | Code Language        |
 | :---------------------------------------------- | :--------------------------------- | :------------- | :------------- | :--------------------------------------------------------------------------------------------------------- | :------------ | :----------- | :----------------------- | :---------------- | :---------------------- | :------------------- |
@@ -55,15 +66,7 @@ Any other ideas? Let me know! **Submit a new issue or create a pull request**.
 | [Twinny.dev](https://twinny.dev/)                | 💻                                 | Extension      | ✅             | Code assistance and direct maintenance of specific files                                                |               |            | ✅                        | ✅              | ✅                      | Multiple             |
 | [Cody](https://sourcegraph.com/cody)              | 💻                                 | Extension      |                | Code assistance and direct maintenance of specific files                                                |               |            | ✅                        | ✅              | ✅                      | Multiple             |
 
-## Terminal
-
-| Tool                                            | Best-fit product roles             | Type           | Open-source? | Use case                                                                                                | Drag-and-Drop | Visual First | Bring your own LLM API key | Frontend Code   | Backend Code            | Code Language        |
-| :---------------------------------------------- | :--------------------------------- | :------------- | :------------- | :--------------------------------------------------------------------------------------------------------- | :------------ | :----------- | :----------------------- | :---------------- | :---------------------- | :------------------- |
-| [Aider](https://aider.chat/)                     | 💻                                 | Terminal       | ✅             | Creation and maintenance of complex web projects                                                          |               |            | ✅                        | ✅              | ✅                      | Multiple             |
-| [Codebuff](https://www.codebuff.com/)                     | 💻                                 | Terminal       |              | Creation and maintenance of complex web projects                                                          |               |            |                         | ✅              | ✅                      | Multiple             |
-| [Exponent.run](https://www.exponent.run/)            | 💻                                 | Extension; Terminal; IDE      |              | Code assistance and and maintenance of complex web projects files                                                |               |            |                         | ✅              | ✅                      | Multiple             |
-
-## IDE
+### IDE
 
 | Tool                                            | Best-fit product roles             | Type           | Open-source? | Use case                                                                                                | Drag-and-Drop | Visual First | Bring your own LLM API key | Frontend Code   | Backend Code            | Code Language        |
 | :---------------------------------------------- | :--------------------------------- | :------------- | :------------- | :--------------------------------------------------------------------------------------------------------- | :------------ | :----------- | :----------------------- | :---------------- | :---------------------- | :------------------- |
@@ -81,3 +84,24 @@ Any other ideas? Let me know! **Submit a new issue or create a pull request**.
 | [Windsurf](https://codeium.com/windsurf/)         | 💻                                 | IDE            |                | Web app creation                                                                                          |               |            |                         | ✅              | ✅                      | Multiple             |
 | [Zed](https://zed.dev/)                         | 💻                                 | IDE            | ✅             | Web app creation                                                                                          |               |            |  ✅                          | ✅              | ✅                      | Multiple             |
 | [Zinley](https://zinley.com/)                         | 💻                                 | IDE            |              | Web app creation                                                                                          | ✅              |            |  ✅                          | ✅              | ✅                      | Multiple             |
+
+## 🎁 Bonus
+
+### No-Code
+
+#### Alternatives to Figma
+
+- [Penpot](https://penpot.app/): open-source (without A.I.)
+
+#### Alternatives to Webflow 
+
+- [Webstudio](https://webstudio.is/) (🤖 A.I.)
+- [Ycode](https://www.ycode.com/) (without A.I.)
+
+#### Alternatives to Bubble.io
+
+- [dittofi](https://www.dittofi.com/)
+- [Fuzzen.io](https://fuzen.io/)
+- [Momen](https://momen.app/)
+- [Wappler.io](https://wappler.io/)
+- [weweb.io](https://www.weweb.io/)
