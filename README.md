@@ -95,8 +95,11 @@ Any other ideas? Let me know! **Submit a new issue or create a pull request**.
 
 #### Alternatives to Webflow 
 
+- [Plasmic](https://www.plasmic.app/)
+- [teleporthq](https://teleporthq.io/)  (without A.I.)
 - [Webstudio](https://webstudio.is/) (🤖 A.I.)
 - [Ycode](https://www.ycode.com/) (without A.I.)
+
 
 #### Alternatives to Bubble.io
 
