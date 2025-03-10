@@ -108,6 +108,21 @@ Any other ideas? Let me know! **Submit a new issue or create a pull request**.
 | [Zed](https://zed.dev/)                         | 💻                                 | IDE            | ✅             | Web app creation                                                                                          |               |            |  ✅                          | ✅              | ✅                      | Multiple             |
 | [Zinley](https://zinley.com/)                         | 💻                                 | IDE            |              | Web app creation                                                                                          | ✅              |            |  ✅                          | ✅              | ✅                      | Multiple             |
 
+## Peding to classify
+
+- https://www.jdoodle.ai/
+- https://10web.io/ai-website-builder/
+- https://ohara.ai/
+- https://www.softr.io/ai-app-generator
+- https://www.wix.com/ai-website-builder
+- https://www.hostinger.com/ai-website-builder
+- https://www.butternut.ai/
+- https://getcreatr.com/
+- https://durable.co/
+- https://squarespace.com/websites/ai-website-builder
+- https://www.relume.io/
+- https://uizard.io/
+
 ## 🎁 Bonus
 
 ### No-Code
