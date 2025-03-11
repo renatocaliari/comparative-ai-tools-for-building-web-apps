@@ -146,4 +146,6 @@ Any other ideas? Let me know! **Submit a new issue or create a pull request**.
 - [Fuzzen.io](https://fuzen.io/)
 - [Momen](https://momen.app/)
 - [Wappler.io](https://wappler.io/)
+- [Toddle.dev](https://toddle.dev/)
+- [FluxScape](https://fluxscape.io/)
 
