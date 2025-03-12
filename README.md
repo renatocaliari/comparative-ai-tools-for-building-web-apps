@@ -109,6 +109,7 @@ Any other ideas? Let me know! **Submit a new issue or create a pull request**.
 | [Zinley](https://zinley.com/)                         | 💻                                 | IDE            |              | Web app creation                                                                                          | ✅              |            |  ✅                          | ✅              | ✅                      | Multiple             |
 
 ## Peding to classify
+- https://github.com/SWE-agent/SWE-agent
 - https://github.com/All-Hands-AI/OpenHands (terminal, ide)
 - https://devin.ai/
 - https://www.coze.com/
