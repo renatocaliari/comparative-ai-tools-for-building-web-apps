@@ -109,6 +109,7 @@ Any other ideas? Let me know! **Submit a new issue or create a pull request**.
 | [Zinley](https://zinley.com/)                         | 💻                                 | IDE            |              | Web app creation                                                                                          | ✅              |            |  ✅                          | ✅              | ✅                      | Multiple             |
 
 ## Peding to classify
+- https://devin.ai/
 - https://www.coze.com/
 - https://www.jdoodle.ai/
 - https://10web.io/ai-website-builder/
